@@ -1,10 +1,16 @@
 _repo: The-Boy-Scouts-Afoot-in-France-or-With-the-Red-Cross-Corps-at-the-Marne_47358
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47358-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Herbert
     gutenberg_agent_id: '2624'
     url: http://www.gutenberg.org/2009/agents/2624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47358#The-Boy-Scouts-Afoot-in-France-or-With-the-Red-Cross-Corps-at-the-Marne
 gutenberg_issued: '2014-11-15'
 gutenberg_type: Text
 identifiers:
